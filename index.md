@@ -1,8 +1,8 @@
 ## John Moran's first CS 193 Lab
 
--Now I know about the hackathons here 
+- Now I know about the hackathons here 
 
--I'm learning more about github
+- I'm learning more about github
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
